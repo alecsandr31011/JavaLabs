@@ -1,0 +1,9 @@
+{
+  "name": "Example University",
+  "faculty": {
+    "name": "Computer Science",
+    "department": {
+      "name": "Data Science"
+    }
+  }
+}
